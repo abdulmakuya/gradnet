@@ -7,3 +7,6 @@ The system is implemented using django version 2.1
 coordinator
 alumnee
 admin - abdulmakuya,pass123..
+
+
+[see more](https://github.com/abdulmakuya/gradnet/report.md)
