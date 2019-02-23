@@ -9,4 +9,4 @@ alumnee
 admin - abdulmakuya,pass123..
 
 
-[see more](https://github.com/abdulmakuya/gradnet/report.md)
+about the report,Please visit [see more](https://github.com/abdulmakuya/gradnet/report.md)
