@@ -10,5 +10,5 @@ admin - abdulmakuya,pass123..
 
 
 about the report,Please visit [see more](
-        gradnet/report.md
+        https://github.com/abdulmakuya/gradnet/report.md
       )
