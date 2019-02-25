@@ -5,4 +5,5 @@ This project came after Software engineering course in year 1.
 ##Dev challenges.
 
 restring a ui element to use a single external stylesheet file.  
-overlapping of cdn,making unpredictable ui arrangement,(inline styling was used to solve this)
+overlapping of cdn,making unpredictable ui arrangement,(inline styling was used to solve this).  
+using iframe tag,and trying to make it seamless
